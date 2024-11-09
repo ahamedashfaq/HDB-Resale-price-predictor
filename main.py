@@ -1,9 +1,7 @@
 import streamlit as st
-from annotated_text import annotated_text
 import pickle
 import pandas as pd
 from pickle import dump
-import joblib
 import os
 #------
 from streamlit_navigation_bar import st_navbar
