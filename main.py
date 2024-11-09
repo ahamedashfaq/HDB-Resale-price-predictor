@@ -3,7 +3,6 @@ import pickle
 import pandas as pd
 from pickle import dump
 import os
-#------
 from streamlit_navigation_bar import st_navbar
 from pathlib import Path
 
