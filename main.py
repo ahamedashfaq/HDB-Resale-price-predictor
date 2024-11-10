@@ -46,7 +46,7 @@ if page == "Home":
         st.image("https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/current-corporate-signature-.ashx",width = 300)
 
     st.write("The Housing and Development Board (HDB) of Singapore plays a crucial role in the nation's public housing landscape. Established on February 1, 1960, as a statutory board under the Ministry of National Development, HDB is responsible for planning and developing public housing, managing estates, and ensuring that housing remains affordable for Singaporeans")
-    st.write("On overwhemling pricing of HDB flat, this app is developed to predict resale price from the HDB data (https://data.gov.sg/collections/189/view) itself. This is a simple app which use regression algorithm to train the model, and have been deployed in cloud based for end-user consumption")
+    st.write("On overwhemling pricing of HDB flat, this app is developed to predict resale price from the HDB data (https://data.gov.sg/collections/189/view) itself. This is a simple app which use regression algorithm to train the model, and have been deployed in cloud for end-user consumption. Disclaimer: This app is not authorized or endorsed by HDB or any government agencies. This is purely for testing purpose")
 
     
 #----------------------------------------------Top10s PAGE-----------------------------------------------------------------
